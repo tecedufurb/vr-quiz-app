@@ -199,10 +199,7 @@ public class Quiz : MonoBehaviour {
         float randomPositionX = Random.Range(wall1 - 0.5f, wall2 - 0.5f);
         float randomPositionZ = Random.Range(wall3 - 0.5f, wall4 - 0.5f);
 
-        GameObject imageTarget = GameObject.Find("ImageTarget");
-
-        GameObject temp = Instantiate(QuestionPrefab, imageTarget.transform, false);
+        GameObject temp = Instantiate(QuestionPrefab);
         temp.transform.position = new Vector3(randomPositionX, 0, randomPositionZ);
-        temp.transform.localScale = new Vector3(0.8f, 0.01f, 0.8f);
     }
 }
