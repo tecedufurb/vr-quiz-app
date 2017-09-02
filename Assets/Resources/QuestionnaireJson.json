@@ -6,35 +6,35 @@
 	   {
 		  "_id":"595fc61d9dccba122073f933",
 		  "code":"Wg42v",
-		  "title":"Ciclo Hidrológico",
+		  "title":"Política Nacional de Defesa Civil",
 		  "teacherID":"59553fe13cd71e2a747e7f4a",
-		  "description":"Questionário sobre o Ciclo Hidrológico",
+		  "description":"Questionário utilizado na apresentação dos alunos de mestrado da FURB",
 		  "criationDate":"2017-07-07T17:34:21.252Z",
 		  "questions":
 		  [
 			 {
 				"_id":"5963bc76bbfeeb3f9076d101",
-				"m_Question":"A água é o elemento mais presente na superfície da Terra…",
-				"m_AnswerA":"A água cobre cerca de 71% da superfície da Terra.",
-				"m_AnswerB":"A água cobre cerca de 63% da superfície da Terra.",
-				"m_AnswerC":"A água cobre cerca de 54% da superfície da Terra.",
-				"m_AnswerD":"A água cobre cerca de 91% da superfície da Terra."
+				"m_Question":"A Política Nacional de Proteção e Defesa Civil - PNPDEC, instituída pela Lei nº 12.608 de 10 de abril de 2012, refere-se a que?",
+				"m_AnswerA":"Os princípios, os objetivos e instrumentos de como a gestão de riscos de desastres e a gestão de desastres serão implementadas no Brasil.",
+				"m_AnswerB":"Determina as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.",
+				"m_AnswerC":"Asseguram à atual e às futuras gerações a necessária disponibilidade de água, em padrões de qualidade adequados aos respectivos usos.",
+				"m_AnswerD":"Ao parcelamento do solo para fins urbanos."
 			 }, 
 			{
 				"_id": 1,
-				"m_Question": "Qual o outro nome para a chuva, que é o retorno da água à Terra?",
-				"m_AnswerA":"Precipitação.",
-				"m_AnswerB":"Transpiração.",
-				"m_AnswerC":"Granizo.",
-				"m_AnswerD":"Condensação."
+				"m_Question": "Quais as ações voltadas à proteção e defesa civil que a PNPDEC abrange?",
+				"m_AnswerA":"Prevenção/ mitigação/ preparação/ resposta/ recuperação.",
+				"m_AnswerB":"Remoção/ incentivo/ mitigação/ alerta/ mapeamento.",
+				"m_AnswerC":"Controle/ observação/ desabrigo/ expulsão/ mapeamento.",
+				"m_AnswerD":"Prevenção/ alerta/ desabrigo/ orientação/ execução."
 			},
 			{
 				"_id": 2,
-				"m_Question": "Quais os estados físicos da água?",
-				"m_AnswerA":"Sólido, líquido e gasoso.",
-				"m_AnswerB":"Gelo, nuvens e chuva.",
-				"m_AnswerC":"Oceanos, rios e lagos.",
-				"m_AnswerD":"Chuva, neve e granizo."
+				"m_Question": "Um sistema eficaz de alerta requer a contribuição:",
+				"m_AnswerA":"Todas as alternativas.",
+				"m_AnswerB":"Da comunidade.",
+				"m_AnswerC":"Do poder público.",
+				"m_AnswerD":"Das organizações civis."
 			},
 			{
 				"_id": 3,
@@ -46,35 +46,27 @@
 			},
 			{
 				"_id": 4,
-				"m_Question": "A água salobra é:",
-				"m_AnswerA":"Imprópria para consumo.",
-				"m_AnswerB":"Própria para consumo.",
-				"m_AnswerC":"Aquela que contém muito sal.",
-				"m_AnswerD":"Aquela que não contém sal."
+				"m_Question": "Assinale a alternativa que descreve uma competência que não é dos Municípios segundo a Política Nacional de Proteção e Defesa Civil (Lei nº 12.608 de 10 de abril de 2012):",
+				"m_AnswerA":"Estabelecer critérios e condições para a declaração e o reconhecimento de situações de emergência e estado de calamidade pública.",
+				"m_AnswerB":"Identificar e mapear as áreas de risco de desastres.",
+				"m_AnswerC":"Estimular comportamentos de prevenção capazes de evitar ou minimizar a ocorrência de desastres.",
+				"m_AnswerD":"Estimular comportamentos de prevenção capazes de evitar ou minimizar a ocorrência de desastres."
 			},
 			{
 				"_id": 5,
-				"m_Question": "No nosso planeta, a água é um recurso:",
-				"m_AnswerA":"Renovável.",
-				"m_AnswerB":"Mineral.",
-				"m_AnswerC":"Termal.",
-				"m_AnswerD":"Não Renovável."
+				"m_Question": "Com relação às diretrizes e metas da Política Nacional de Defesa Civil, assinale a opção que contém uma diretriz e uma meta das atividades de defesa civil, nessa ordem.",
+				"m_AnswerA":"Estimular estudos e pesquisas sobre desastres; implementar Centros Universitários de Estudos e Pesquisas sobre Desastres.",
+				"m_AnswerB":"Atribuir a um único sistema a responsabilidade pelo planejamento; apoiar Estados na implementação de Planos Diretores.",
+				"m_AnswerC":"Priorizar a prevenção de acidentes; implementar interação Governo e Comunidade.",
+				"m_AnswerD":"Promover a ordenação do espaço urbano; implementar programas de mudança cultural."
 			},
 			{
 				"_id": 6,
-				"m_Question": "Água à temperatura ambiente é:",
-				"m_AnswerA":"Líquida.",
-				"m_AnswerB":"Sólida.",
-				"m_AnswerC":"Gasosa.",
-				"m_AnswerD":"Plasma."
-			},
-			{
-				"_id": 7,
-				"m_Question": "A Terra é conhecida como o planeta azul por causa da presença de(a,o)",
-				"m_AnswerA":"Água.",
-				"m_AnswerB":"Atmosfera.",
-				"m_AnswerC":"Massas.",
-				"m_AnswerD":"Céu."
+				"m_Question": "Segundo a PNPDEC, os programas habitacionais da União, dos Estados, do Distrito Federal e dos Municípios devem priorizar:",
+				"m_AnswerA":"Realocação de comunidades atingidas e moradores de áreas de risco.",
+				"m_AnswerB":"Ações para comunidades de baixa renda.",
+				"m_AnswerC":"Organização e administração de abrigos provisórios.",
+				"m_AnswerD":"Habitações para os moradores de rua."
 			}
 		  ]
 	  }

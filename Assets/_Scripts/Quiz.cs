@@ -200,6 +200,6 @@ public class Quiz : MonoBehaviour {
         float randomPositionZ = Random.Range(wall3 - 0.5f, wall4 - 0.5f);
 
         GameObject temp = Instantiate(QuestionPrefab);
-        temp.transform.position = new Vector3(randomPositionX, 0, randomPositionZ);
+        temp.transform.position = new Vector3(randomPositionX, 3, randomPositionZ);
     }
 }

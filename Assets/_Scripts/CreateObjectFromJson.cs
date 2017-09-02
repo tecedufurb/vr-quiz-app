@@ -24,10 +24,10 @@ public class CreateObjectFromJson {
     /// the QuestionnaireJson file on the Resources folder.
     /// </summary>
     public static void SetPlayerPrefs() {
-        string test = PlayerPrefs.GetString("ServerResult", "");
-        if (test == "") {
+        //string test = PlayerPrefs.GetString("ServerResult", "");
+        //if (test == "") {
             string json = Resources.Load("QuestionnaireJson").ToString();
             PlayerPrefs.SetString("ServerResult", json);
-        }
+        //}
     }
 }
