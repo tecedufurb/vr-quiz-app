@@ -22,7 +22,7 @@
 			 }, 
 			{
 				"_id": 1,
-				"m_Question": "Quais as ações voltadas à proteção e defesa civil que a PNPDEC abrange?",
+				"m_Question":"Quais as ações voltadas à proteção e defesa civil que a PNPDEC abrange?",
 				"m_AnswerA":"Prevenção/ mitigação/ preparação/ resposta/ recuperação.",
 				"m_AnswerB":"Remoção/ incentivo/ mitigação/ alerta/ mapeamento.",
 				"m_AnswerC":"Controle/ observação/ desabrigo/ expulsão/ mapeamento.",
@@ -30,23 +30,15 @@
 			},
 			{
 				"_id": 2,
-				"m_Question": "Um sistema eficaz de alerta requer a contribuição:",
+				"m_Question":"Um sistema eficaz de alerta requer a contribuição:",
 				"m_AnswerA":"Todas as alternativas.",
 				"m_AnswerB":"Da comunidade.",
 				"m_AnswerC":"Do poder público.",
 				"m_AnswerD":"Das organizações civis."
 			},
 			{
-				"_id": 3,
-				"m_Question": "Em que consiste o ciclo da água?",
-				"m_AnswerA":"Circulação da água na Natureza.",
-				"m_AnswerB":"Passagem da água desde as nascentes até nossa casa.",
-				"m_AnswerC":"Passagem da água do estado gasoso a líquido e deste novamente a gasoso.",
-				"m_AnswerD":"Passagem da água do estado gasoso a líquido e deste ao estado sólido."
-			},
-			{
 				"_id": 4,
-				"m_Question": "Assinale a alternativa que descreve uma competência que não é dos Municípios segundo a Política Nacional de Proteção e Defesa Civil (Lei nº 12.608 de 10 de abril de 2012):",
+				"m_Question":"Assinale a alternativa que descreve uma competência que não é dos Municípios segundo a Política Nacional de Proteção e Defesa Civil (Lei nº 12.608 de 10 de abril de 2012):",
 				"m_AnswerA":"Estabelecer critérios e condições para a declaração e o reconhecimento de situações de emergência e estado de calamidade pública.",
 				"m_AnswerB":"Identificar e mapear as áreas de risco de desastres.",
 				"m_AnswerC":"Estimular comportamentos de prevenção capazes de evitar ou minimizar a ocorrência de desastres.",
@@ -54,7 +46,7 @@
 			},
 			{
 				"_id": 5,
-				"m_Question": "Com relação às diretrizes e metas da Política Nacional de Defesa Civil, assinale a opção que contém uma diretriz e uma meta das atividades de defesa civil, nessa ordem.",
+				"m_Question":"Com relação às diretrizes e metas da Política Nacional de Defesa Civil, assinale a opção que contém uma diretriz e uma meta das atividades de defesa civil, nessa ordem.",
 				"m_AnswerA":"Estimular estudos e pesquisas sobre desastres; implementar Centros Universitários de Estudos e Pesquisas sobre Desastres.",
 				"m_AnswerB":"Atribuir a um único sistema a responsabilidade pelo planejamento; apoiar Estados na implementação de Planos Diretores.",
 				"m_AnswerC":"Priorizar a prevenção de acidentes; implementar interação Governo e Comunidade.",
@@ -62,7 +54,7 @@
 			},
 			{
 				"_id": 6,
-				"m_Question": "Segundo a PNPDEC, os programas habitacionais da União, dos Estados, do Distrito Federal e dos Municípios devem priorizar:",
+				"m_Question":"Segundo a PNPDEC, os programas habitacionais da União, dos Estados, do Distrito Federal e dos Municípios devem priorizar:",
 				"m_AnswerA":"Realocação de comunidades atingidas e moradores de áreas de risco.",
 				"m_AnswerB":"Ações para comunidades de baixa renda.",
 				"m_AnswerC":"Organização e administração de abrigos provisórios.",
