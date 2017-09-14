@@ -59,6 +59,22 @@
 				"m_AnswerB":"Ações para comunidades de baixa renda.",
 				"m_AnswerC":"Organização e administração de abrigos provisórios.",
 				"m_AnswerD":"Habitações para os moradores de rua."
+			},
+			{
+				"_id": 7,
+				"m_Question":"Qual das alternativas apresenta a fase de maior importância em caso de ocorrência de um desastre?",
+				"m_AnswerA":"Mitigação.",
+				"m_AnswerB":"Prevenção.",
+				"m_AnswerC":"Regulação jurídica.",
+				"m_AnswerD":"Avaliação dos danos."
+			},
+			{
+				"_id": 8,
+				"m_Question":"Assinale qual alternativa não faz parte dos objetivos da PNPDEC",
+				"m_AnswerA":"Estimular o crescimento desordenado das cidades.",
+				"m_AnswerB":"Prestar socorro e assistência às populações atingidas por desastres.",
+				"m_AnswerC":"Reduzir os riscos de desastres.",
+				"m_AnswerD":"Recuperar as áreas afetadas por desastres."
 			}
 		  ]
 	  }
