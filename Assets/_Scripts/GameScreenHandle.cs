@@ -19,7 +19,6 @@ public class GameScreenHandle : MonoBehaviour {
     [SerializeField] private GameObject m_FinalPanel;
     [SerializeField] private GameObject m_MessagePanel;
     [SerializeField] private GameObject m_PanelScoreText;
-    [SerializeField] private GameObject m_TargetPanel;
     [SerializeField] private GameObject m_MobileSingleStickControlRig;
     [SerializeField] private Text m_AnswerMessageText;
     [SerializeField] private Text m_RightHitsText;
@@ -49,16 +48,6 @@ public class GameScreenHandle : MonoBehaviour {
         m_QuestionsPanel.SetActive(false);
         m_MobileSingleStickControlRig.SetActive(false);
         m_FinalPanel.SetActive(false);
-        m_TargetPanel.SetActive(false);
-    }
-
-    /// <summary>
-    /// Disable the target panel and enable the main panel.
-    /// </summary>
-    public void DisableTargetPanel() {
-        m_TargetPanel.SetActive(false);
-        m_MainPanel.SetActive(true);
-        m_MobileSingleStickControlRig.SetActive(true);
     }
 
     /// <summary>

@@ -8,6 +8,8 @@ public class Quiz : MonoBehaviour {
 
     [SerializeField] private GameScreenHandle GameScreenHandle;
     [SerializeField] private GameObject QuestionPrefab;
+    [SerializeField] private GameObject CanvasArrow;
+    [SerializeField] private GameObject Timer;
 
     private List<Question> mQuestions;
     private int mQuestionAmount;
@@ -31,9 +33,24 @@ public class Quiz : MonoBehaviour {
         QuestionSingleTon.Instance.PopulateQuestionsFromServerResult();
         mQuestions = QuestionSingleTon.Instance.Questions;
         mQuestionAmount = mQuestions.Count - 1;
-
+        
         InstantiateQuestion();
+        DifficultyHandler();
         ShowQuestion();
+    }
+
+    /// <summary>
+    /// Active the Arrow or Timer object, depending on the difficulty level chosen previously.
+    /// </summary>
+    private void DifficultyHandler() {
+        switch (QuestionSingleTon.Instance.Difficulty) {
+            case Difficulty.EASY:
+                CanvasArrow.SetActive(true);
+                break;
+            case Difficulty.HARD:
+                Timer.SetActive(true);
+                break;
+        }
     }
 
     /// <summary>
@@ -196,8 +213,8 @@ public class Quiz : MonoBehaviour {
         float wall3 = GameObject.Find("Wall3").transform.position.z;
         float wall4 = GameObject.Find("Wall4").transform.position.z;
 
-        float randomPositionX = Random.Range(wall1 - 100f, wall2 - 100f);
-        float randomPositionZ = Random.Range(wall3 - 100f, wall4 - 100f);
+        float randomPositionX = Random.Range(wall1 - 200f, wall2 - 200f);
+        float randomPositionZ = Random.Range(wall3 - 200f, wall4 - 200f);
 
         GameObject temp = Instantiate(QuestionPrefab);
         temp.transform.position = new Vector3(randomPositionX, 3, randomPositionZ);
