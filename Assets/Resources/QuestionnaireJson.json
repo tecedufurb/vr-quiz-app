@@ -13,68 +13,84 @@
 		  "questions":
 		  [
 			 {
-				"_id":"5963bc76bbfeeb3f9076d101",
-				"m_Question":"A Política Nacional de Proteção e Defesa Civil - PNPDEC, instituída pela Lei nº 12.608 de 10 de abril de 2012, refere-se a que?",
-				"m_AnswerA":"Os princípios, os objetivos e instrumentos de como a gestão de riscos de desastres e a gestão de desastres serão implementadas no Brasil.",
+				"_id":1,
+				"m_Question":"A Política Nacional de Proteção e Defesa Civil - PNPDEC, instituída pela Lei nº 12.608/2012:",
+				"m_AnswerA":"Refere-se aos princípios, objetivos e instrumentos da gestão de riscos de desastres no Brasil",
 				"m_AnswerB":"Determina as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.",
-				"m_AnswerC":"Asseguram à atual e às futuras gerações a necessária disponibilidade de água, em padrões de qualidade adequados aos respectivos usos.",
+				"m_AnswerC":"Assegura para a atual e futuras gerações a necessária disponibilidade de água, em padrões de qualidade adequados aos respectivos usos.",
 				"m_AnswerD":"Ao parcelamento do solo para fins urbanos."
 			 }, 
 			{
-				"_id": 1,
-				"m_Question":"Quais as ações voltadas à proteção e defesa civil que a PNPDEC abrange?",
+				"_id": 2,
+				"m_Question":"Quais as ações que a Política Nacional de Proteção e Defesa Civil - PNPDEC, instituída pela Lei nº 12.608/2012 estabelece para a gestão de riscos de desastres:",	
 				"m_AnswerA":"Prevenção/ mitigação/ preparação/ resposta/ recuperação.",
 				"m_AnswerB":"Remoção/ incentivo/ mitigação/ alerta/ mapeamento.",
 				"m_AnswerC":"Controle/ observação/ desabrigo/ expulsão/ mapeamento.",
 				"m_AnswerD":"Prevenção/ alerta/ desabrigo/ orientação/ execução."
 			},
 			{
-				"_id": 2,
-				"m_Question":"Um sistema eficaz de alerta requer a contribuição:",
-				"m_AnswerA":"Todas as alternativas.",
-				"m_AnswerB":"Da comunidade.",
-				"m_AnswerC":"Do poder público.",
-				"m_AnswerD":"Das organizações civis."
+				"_id": 3,
+				"m_Question":"De acordo a Política Nacional de Proteção e Defesa Civil - PNPDEC, instituída pela Lei nº 12.608/2012:",
+				"m_AnswerA":"As cidades incluídas no cadastro nacional de municípios com áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos, precisarão elaborar Plano de Contingência de Proteção e Defesa Civil e instituir órgãos municipais de defesa civil.",
+				"m_AnswerB":"Em situações de iminência ou ocorrência de desastre, os órgãos competentes não ficam autorizados a transferir bens apreendidos em operações de combate e repressão a crimes para os órgãos de proteção e defesa civil.",
+				"m_AnswerC":"É dever da União, dos Estados, do Distrito Federal e dos Municípios adotar apenas algumas medidas necessárias à redução dos riscos de desastre.",
+				"m_AnswerD":"Todas as alternativas anteriores estão corretas."
 			},
 			{
 				"_id": 4,
-				"m_Question":"Assinale a alternativa que descreve uma competência que não é dos Municípios segundo a Política Nacional de Proteção e Defesa Civil (Lei nº 12.608 de 10 de abril de 2012):",
-				"m_AnswerA":"Estabelecer critérios e condições para a declaração e o reconhecimento de situações de emergência e estado de calamidade pública.",
-				"m_AnswerB":"Identificar e mapear as áreas de risco de desastres.",
-				"m_AnswerC":"Estimular comportamentos de prevenção capazes de evitar ou minimizar a ocorrência de desastres.",
-				"m_AnswerD":"Estimular comportamentos de prevenção capazes de evitar ou minimizar a ocorrência de desastres."
+				"m_Question":"Um sistema eficaz de alerta requer a participação:",
+				"m_AnswerA":"Todas as alternativas anteriores.",
+				"m_AnswerB":"Do poder público.",
+				"m_AnswerC":"Das organizações civis.",
+				"m_AnswerD":"Da comunidade."
 			},
 			{
 				"_id": 5,
-				"m_Question":"Com relação às diretrizes e metas da Política Nacional de Defesa Civil, assinale a opção que contém uma diretriz e uma meta das atividades de defesa civil, nessa ordem.",
-				"m_AnswerA":"Estimular estudos e pesquisas sobre desastres; implementar Centros Universitários de Estudos e Pesquisas sobre Desastres.",
-				"m_AnswerB":"Atribuir a um único sistema a responsabilidade pelo planejamento; apoiar Estados na implementação de Planos Diretores.",
-				"m_AnswerC":"Priorizar a prevenção de acidentes; implementar interação Governo e Comunidade.",
-				"m_AnswerD":"Promover a ordenação do espaço urbano; implementar programas de mudança cultural."
+				"m_Question":"Assinale a alternativa que descreve uma competência que não é dos Municípios segundo a Política Nacional de Proteção e Defesa Civil (Lei nº 12.608 de 10 de abril de 2012):",
+				"m_AnswerA":"Estabelecer critérios e condições para a declaração e o reconhecimento de situações de emergência e estado de calamidade pública.",
+				"m_AnswerB":"Promover a fiscalização das áreas de risco de desastre e vedar novas ocupações nessas áreas.",
+				"m_AnswerC":"Estimular comportamentos de prevenção capazes de evitar ou minimizar a ocorrência de desastres.",
+				"m_AnswerD":"Identificar e mapear as áreas de risco de desastres."
 			},
 			{
 				"_id": 6,
-				"m_Question":"Segundo a PNPDEC, os programas habitacionais da União, dos Estados, do Distrito Federal e dos Municípios devem priorizar:",
+				"m_Question":"Segundo a Política Nacional de Proteção e Defesa Civil - PNPDEC, Lei nº 12.608/2012, os programas habitacionais da União, dos Estados, do Distrito Federal e dos Municípios devem priorizar:",
 				"m_AnswerA":"Realocação de comunidades atingidas e moradores de áreas de risco.",
-				"m_AnswerB":"Ações para comunidades de baixa renda.",
+				"m_AnswerB":"Habitações para os moradores de rua.",
 				"m_AnswerC":"Organização e administração de abrigos provisórios.",
-				"m_AnswerD":"Habitações para os moradores de rua."
+				"m_AnswerD":"Ações para comunidades de baixa renda."
 			},
 			{
 				"_id": 7,
-				"m_Question":"Qual das alternativas apresenta a fase de maior importância em caso de ocorrência de um desastre?",
-				"m_AnswerA":"Mitigação.",
-				"m_AnswerB":"Prevenção.",
-				"m_AnswerC":"Regulação jurídica.",
-				"m_AnswerD":"Avaliação dos danos."
+				"m_Question":"Com relação às diretrizes e metas da Política Nacional de Proteção e Defesa Civil - PNPDEC, Lei nº 12.608/2012, assinale a opção que contém uma diretriz e uma meta das atividades de defesa civil, nessa ordem.",
+				"m_AnswerA":"Estimular estudos e pesquisas sobre desastres; implementar Centros Universitários de Estudos e Pesquisas sobre Desastres.",
+				"m_AnswerB":"Promover a ordenação do espaço urbano; implementar programas de mudança cultural.",
+				"m_AnswerC":"Priorizar a prevenção de acidentes; implementar interação Governo e Comunidade.",
+				"m_AnswerD":"Atribuir a um único sistema a responsabilidade pelo planejamento; apoiar Estados na implementação de Planos Diretores."
 			},
 			{
 				"_id": 8,
-				"m_Question":"Assinale qual alternativa não faz parte dos objetivos da PNPDEC",
-				"m_AnswerA":"Estimular o crescimento desordenado das cidades.",
-				"m_AnswerB":"Prestar socorro e assistência às populações atingidas por desastres.",
-				"m_AnswerC":"Reduzir os riscos de desastres.",
-				"m_AnswerD":"Recuperar as áreas afetadas por desastres."
+				"m_Question":"A Lei Nº 12.608/2012, que institui a Política Nacional de Proteção e Defesa Civil – PNPDEC, estabelece competências para os distintos entes federados, União, Estados e Municípios. Para a União compete:",
+				"m_AnswerA":"Apoiar a comunidade docente no desenvolvimento de material didático-pedagógico relacionado ao desenvolvimento da cultura de prevenção de desastres.",
+				"m_AnswerB":"Proceder à avaliação de danos e prejuízos das áreas atingidas por desastres.",
+				"m_AnswerC":"Promover a fiscalização das áreas de risco de desastre e vedar novas ocupações nessas áreas.",
+				"m_AnswerD":"Declarar situação de emergência e estado de calamidade pública."
+			},
+			{
+				"_id": 9,
+				"m_Question":"De acordo com a Lei Nº 12.608/2012, que institui a Política Nacional de Proteção e Defesa Civil – PNPDEC, a unidade territorial de análise (área) para as ações de gestão de riscos de desastres é:",
+				"m_AnswerA":"Bacia hidrográfica.",
+				"m_AnswerB":"Município.",
+				"m_AnswerC":"Mesorregião.",
+				"m_AnswerD":"Bairro."
+			},
+			{
+				"_id": 10,
+				"m_Question":"Qual o papel que a Educação para a gestão de riscos de desastres desempenha em relação às ações de prevenção Prevenção/ mitigação/ preparação/ resposta/ recuperação prevista na Política Nacional de Proteção e Defesa Civil ( Lei nº 12,608/2012):",
+				"m_AnswerA":"Atuar em todos os processos e ações de prevenção, mitigação, preparação, resposta e recuperação na educação formal e também na coapacitação de gestores públicos.",
+				"m_AnswerB":"Atuar somente na preparação e prevenção aos riscos de desastres.",
+				"m_AnswerC":"Atuar somente após a ocorrência dos desastres, ou seja, na conscientização para reconstrução.",
+				"m_AnswerD":"Atuar somente na educação  básica/fundamental de crianças e adolescente,  não abrangendo  capacitação de gestores públicos. "
 			}
 		  ]
 	  }

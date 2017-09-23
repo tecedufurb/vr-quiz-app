@@ -213,8 +213,8 @@ public class Quiz : MonoBehaviour {
         float wall3 = GameObject.Find("Wall3").transform.position.z;
         float wall4 = GameObject.Find("Wall4").transform.position.z;
 
-        float randomPositionX = Random.Range(wall1 - 200f, wall2 - 200f);
-        float randomPositionZ = Random.Range(wall3 - 200f, wall4 - 200f);
+        float randomPositionX = Random.Range(wall1 + 200f, wall2 - 200f);
+        float randomPositionZ = Random.Range(wall3 + 200f, wall4 - 200f);
 
         GameObject temp = Instantiate(QuestionPrefab);
         temp.transform.position = new Vector3(randomPositionX, 3, randomPositionZ);
