@@ -1,4 +1,4 @@
-# vr-quiz-app
+# VR Quiz
 :calling: Virtual reality quiz developed using Unity3D.
 
 ## Unity version
